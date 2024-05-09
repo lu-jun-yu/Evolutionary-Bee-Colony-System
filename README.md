@@ -1,2 +1,4 @@
 # Evolutionary-Bee-Colony-System
-Evolutionary Bee Colony System: A Heuristic Optimization Method Combining Hierarchical Search and Evolutionary Strategies
+Evolutionary Bee Colony System: A General Algorithm for Fixed-Length and Variable-Length  Combinatorial Optimization Problems
+
+At the moment, all the source code in the paper is still being sorted out...
